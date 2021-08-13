@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "72b15eb9f3d82f68",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f88462a2f08f817",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebd267f489c64ba1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0988837e05bc2856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56e1ebe8482acff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c20ba02d01062f97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "387cae1b128ccc15",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb77fd90fcb1e038",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "570491599334eac1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5f88462a2f08f817",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Packet Switching.md",
+    "Operations and Management.md",
+    "Internet Design Principles.md",
+    "Network Protocols and Architecture.md",
+    "Basics.md",
+    "Narrow Waist.md",
+    "GoalsOfTheInternet.png",
+    "Resource Control and Content Distributing.md",
+    "Untitled 1.md"
+  ]
+}
